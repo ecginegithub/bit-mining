@@ -1,0 +1,2 @@
+# bit-mining
+bitcoin ming
